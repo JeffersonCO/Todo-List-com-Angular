@@ -1,0 +1,23 @@
+
+.Content{
+    position: relative;
+    width: 100vw;
+    height: 50vh;
+    top: 50px;
+    text-align: center;
+    color: white;
+}
+.Todo-List{
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 2px;
+    text-align: center;
+    padding: 50px;
+    background-color: #ff8533;
+    border-radius: 10px;   
+}
+li{
+    color: black;
+}
